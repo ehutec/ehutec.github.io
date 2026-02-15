@@ -1,2 +1,2 @@
 # EHUTEC
-Drchip — TMPlus Suite
+Dr Chip — TMPlus Suite
