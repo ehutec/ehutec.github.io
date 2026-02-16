@@ -4,3 +4,13 @@
 ## TMPlus Suite: Software avanzado de diagnóstico para torneado y fresado
 
 Una iniciativa conjunta entre la Universidad del País Vasco (EHU) y el Tecnológico de Monterrey (TEC) para promover la colaboración internacional en fabricación avanzada y tecnologías digitales de mecanizado
+
+## Enlaces rápidos
+
+### Turn+
+- Repositorio: https://github.com/Gourpe23/TurnPlus
+- Descarga (última versión): https://github.com/Gourpe23/TurnPlus/releases/latest
+
+### Mill+
+- Repositorio: https://github.com/Gourpe23/MillPlus
+- Descarga (última versión): https://github.com/Gourpe23/MillPlus/releases/latest
