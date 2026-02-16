@@ -6,3 +6,13 @@
 ## ‏TMPlus Suite: برنامج تشخيص متقدم للخراطة والتفريز
 
 مبادرة مشتركة بين جامعة إقليم الباسك (EHU) ومعهد مونتيري للتكنولوجيا (TEC) لتعزيز التعاون الدولي في التصنيع المتقدم وتقنيات التشغيل الرقمي.
+
+## روابط سريعة
+
+### Turn+
+- المستودع: https://github.com/Gourpe23/TurnPlus
+- تنزيل (أحدث إصدار): https://github.com/Gourpe23/TurnPlus/releases/latest
+
+### Mill+
+- المستودع: https://github.com/Gourpe23/MillPlus
+- تنزيل (أحدث إصدار): https://github.com/Gourpe23/MillPlus/releases/latest
