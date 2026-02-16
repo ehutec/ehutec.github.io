@@ -1,4 +1,4 @@
-[EN](/en/) · [ES](/es/) · [FR](/fr/) · [EU](/eu/)
+[EN](/en/) · [ES](/es/) · [FR](/fr/) · [EU](/eu/) · [RU](/ru/) · [HI](/hi/) · [AR](/ar/) · [中文](/zh/)
 
 # EHUTEC
 ## TMPlus Suite: Advanced diagnostic software for turning and milling
