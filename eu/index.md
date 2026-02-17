@@ -1,7 +1,19 @@
 [EN](/en/) · [ES](/es/) · [FR](/fr/) · [EU](/eu/) · [RU](/ru/) · [HI](/hi/) · [AR](/ar/) · [中文](/zh/)
 
-# EHUTEC
-## TMPlus Suite: torneaketa eta fresaketarako diagnostiko-software aurreratua
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <img src="../assets/EHU_logo.png" alt="EHU Logo" width="170">
+
+  <div style="text-align: center; flex: 1;">
+    <h1>EHUTEC</h1>
+    <h2>TMPlus Suite: Torneaketa eta fresaketarako diagnostiko-software aurreratua</h2>
+  </div>
+
+  <img src="../assets/TEC_logo.png" alt="TEC Logo" width="170">
+
+</div>
+
+<br>
 
 Fabrikazio aurreratuan eta mekanizazio-teknologia digitaletan nazioarteko lankidetza sustatzeko Euskal Herriko Unibertsitatearen (EHU) eta Monterreyko Teknologikoaren (TEC) ekimen bateratua da
 
