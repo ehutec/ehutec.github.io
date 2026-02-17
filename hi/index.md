@@ -1,7 +1,19 @@
 [EN](/en/) · [ES](/es/) · [FR](/fr/) · [EU](/eu/) · [RU](/ru/) · [HI](/hi/) · [AR](/ar/) · [中文](/zh/)
 
-# EHUTEC
-## TMPlus Suite: टर्निंग और मिलिंग के लिए उन्नत डायग्नोस्टिक सॉफ़्टवेयर
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <img src="../assets/EHU_logo.png" alt="EHU Logo" width="170">
+
+  <div style="text-align: center; flex: 1;">
+    <h1>EHUTEC</h1>
+    <h2>TMPlus Suite:  टर्निंग और मिलिंग के लिए उन्नत डायग्नोस्टिक सॉफ़्टवेयर</h2>
+  </div>
+
+  <img src="../assets/TEC_logo.png" alt="TEC Logo" width="170">
+
+</div>
+
+<br>
 
 यह Euskal Herriko Unibertsitatea / University of the Basque Country (EHU) और Tecnológico de Monterrey (TEC) की संयुक्त पहल है, जिसका उद्देश्य उन्नत निर्माण और डिजिटल मशीनिंग तकनीकों में अंतरराष्ट्रीय सहयोग को बढ़ावा देना है।
 
