@@ -1,7 +1,5 @@
 # EHUTEC — TMPlus Suite
 
-Choose language / Elige idioma:
-
 - [English](/en/)
 - [Español](/es/)
 - [Français](/fr/)
